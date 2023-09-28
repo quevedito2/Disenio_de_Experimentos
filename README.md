@@ -28,6 +28,6 @@ Este proyecto es usado por las siguientes compañias:
 
 ## Feedback
 
-Si tiene algún comentario o recomendación, comuníquese con nosotros: u202113876@upc.edu.pe y u201619823@upc.edu.pe
+Si tiene algún comentario o recomendación, comuníquese con nosotros: U202113876@upc.edu.pe y U201619823@upc.edu.pe
 
 
